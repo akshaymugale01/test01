@@ -350,3 +350,10 @@ const matrix = [
 
      
    
+     let fun = function(x,y){
+        return x/y;
+     }
+     let x = 50
+     let y = 5;
+     console.log(fun(x,y))
+     
